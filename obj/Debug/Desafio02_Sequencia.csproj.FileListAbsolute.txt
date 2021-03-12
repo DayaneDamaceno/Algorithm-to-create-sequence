@@ -1,0 +1,7 @@
+E:\Dayane\Faculdade\2Semestre\Algoritmo\1BIM\N1\Desafio02_Sequencia\bin\Debug\Desafio02_Sequencia.exe.config
+E:\Dayane\Faculdade\2Semestre\Algoritmo\1BIM\N1\Desafio02_Sequencia\bin\Debug\Desafio02_Sequencia.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\1BIM\N1\Desafio02_Sequencia\bin\Debug\Desafio02_Sequencia.pdb
+E:\Dayane\Faculdade\2Semestre\Algoritmo\1BIM\N1\Desafio02_Sequencia\obj\Debug\Desafio02_Sequencia.csprojAssemblyReference.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\1BIM\N1\Desafio02_Sequencia\obj\Debug\Desafio02_Sequencia.csproj.CoreCompileInputs.cache
+E:\Dayane\Faculdade\2Semestre\Algoritmo\1BIM\N1\Desafio02_Sequencia\obj\Debug\Desafio02_Sequencia.exe
+E:\Dayane\Faculdade\2Semestre\Algoritmo\1BIM\N1\Desafio02_Sequencia\obj\Debug\Desafio02_Sequencia.pdb
